@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://d0blq5yhf7knl"]
+
+[node name="Little Guy" type="Node" unique_id=1428193708]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=1597537711]
